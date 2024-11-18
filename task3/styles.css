@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+}
+main {
+    padding: 0;
+}
+
+div {
+    height: 400px;
+    width: 200px;
+    border: 2px solid rgb(127, 127,127);
+    border-radius: 15px;
+    padding: 25px;
+    margin: 5px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    display: inline-block;
+}
+
+img {
+    padding: 0;
+    margin: 0;
+    width: 150px;
+}
+
+button {
+    width: 150px;
+    height: 25px;
+}
+
+div:hover {
+    background-color: yellowgreen;
+    box-shadow: 0 0 100px rgba(0,0,0,0.5);
+}
+
+div:hover button {
+    background-color: red;
+}
