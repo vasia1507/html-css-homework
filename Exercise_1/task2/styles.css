@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    margin: 0;
+}
+
+header {
+    margin: 0;
+    text-align: center;
+    background-color: chartreuse;
+}
+
+main {
+    display: flex;
+}
+
+img {
+    width: 300px;
+    height: 400px;
+}
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 15px;
+}

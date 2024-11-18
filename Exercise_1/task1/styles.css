@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+li {
+    margin: 10px;
+    padding: 5px;
+}
+
+img {
+    border: 10px solid red;
+}
